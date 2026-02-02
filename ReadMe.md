@@ -1,19 +1,55 @@
-# 💫 About Me:
-Hey, I'm Erik Schwerdt, a passionate backend developer.<br>I love working with Node.js, TypeScript, JavaScript, HTML, and CSS.<br>Constantly learning and exploring new technologies,<br>I strive to create efficient and scalable solutions.<br>Let's build amazing things together!
+# 👋 Hey, I'm Erik Schwerdt
 
-<!--## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/erik-schwerdt/) 
--->
-# 💻 Empowering Solutions with My Tech Arsenal:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/xErik444x?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+Backend-focused developer with a strong interest in **scalable architectures, performance, and cloud infrastructure**.  
+I enjoy building robust APIs, designing clean backend systems, and digging into how things work under the hood.
 
-<!--## 🏆 GitHub Trophies
-![]([https://github-profile-trophy.vercel.app/?username=xErik444x&theme=monokai&no-frame=false&no-bg=true&margin-w=4](https://github-trophies.vercel.app/?username=xErik444x))
--->
+Currently working mostly with **Node.js & TypeScript**, but always learning and expanding into areas like **cloud-native systems, distributed services, and Go**.
 
-<!--
-[![](https://visitcount.itsvg.in/api?id=xErik444x&icon=0&color=0)](https://visitcount.itsvg.in)
+I care about:
+- Clean architecture & maintainability  
+- Performance and scalability  
+- Infrastructure as code & automation  
+- Building things that actually survive production 🚀
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) :D-->
+---
+
+## 🧠 What I work with
+
+### Backend & Languages
+- **Node.js**, **TypeScript**, **JavaScript**
+- **NestJS**, **Express**
+- **Go** (learning & building tools)
+- **Python** (scripts & utilities)
+
+### Databases & Caching
+- **MongoDB**
+- **SQL Server**
+- **Redis**
+
+### Cloud & Infrastructure
+- **AWS** (core services, IAM, storage, compute)
+- **Docker** & containerized environments
+- **Cloudflare R2**
+- Linux-based systems
+
+### Platforms & Tools
+- **Strapi** (custom CMS & APIs)
+- **Firebase**
+- NPM, Git, REST APIs
+
+---
+
+## 🛠️ What I like building
+- Backend APIs with auth, roles, and permissions
+- CMS-backed platforms for real-world products
+- Cloud-ready services designed to scale
+- Dev tools and utilities to make life easier
+
+---
+
+## 📊 GitHub Stats
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/xErik444x?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+---
+
+💬 Always learning, always refactoring.
